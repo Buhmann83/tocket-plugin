@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tocket": {
+      "type": "http",
+      "url": "https://letkimdoit.com/mcp"
+    }
+  }
+}

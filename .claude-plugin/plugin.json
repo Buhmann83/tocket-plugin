@@ -1,0 +1,15 @@
+{
+  "name": "tocket",
+  "displayName": "Tocket",
+  "version": "1.0.0",
+  "description": "Turn screenshots, photos and messages into organised topics, to-dos, events, payments and reminders in Tocket, and ask Claude what is coming up.",
+  "author": {
+    "name": "Christian Dubray",
+    "email": "hello@letkimdoit.com",
+    "url": "https://letkimdoit.com"
+  },
+  "homepage": "https://letkimdoit.com",
+  "repository": "https://github.com/Buhmann83/tocket-plugin",
+  "license": "MIT",
+  "keywords": ["tocket", "organizer", "todos", "calendar", "reminders", "payments", "screenshots", "productivity"]
+}
